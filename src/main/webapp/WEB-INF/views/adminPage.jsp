@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>
 	<body>
-		<h1> This is Admin page </h1>
+		<h1>This is Admin page </h1>
 		<h3>Displaying Admin List</h3>
 		<font color="green">
 			<% 
